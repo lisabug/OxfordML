@@ -1,0 +1,6 @@
+#dataset
+practical3/mnist.t7
+
+
+#vim tmp file
+*.swp
